@@ -1,0 +1,1 @@
+document.write("How is going?");
